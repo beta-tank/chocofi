@@ -1,4 +1,4 @@
-19951892218453507
+19955181073161242
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84979,6 +84979,20 @@ keyswitch_hole
 0
 2
 2
+kbd
+lines
+Converted using: svg2mod -i lines.svg
+svg2mod
+0
+0
+0
+kbd
+lines-mirrored
+Converted using: svg2mod -i lines.svg
+svg2mod
+0
+0
+0
 kbd
 petit_split-logo
 
